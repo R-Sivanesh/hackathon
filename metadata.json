@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Resource and Energy Management System",
+  "description": "AI-powered platform for monitoring, predicting, and optimizing campus electricity, water, room occupancy, and equipment resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
